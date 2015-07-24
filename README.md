@@ -1,2 +1,2 @@
 # andrewmartini.github.io
-testing 123
+this is just a test. it will eventually contain my portfolio. be patient.
